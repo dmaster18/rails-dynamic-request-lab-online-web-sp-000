@@ -9,5 +9,4 @@
 
 Student.create(first_name: "Bob", last_name: "Sanchez")
 Student.create(first_name: "Jesus", last_name: "Christ")
-    t.string   "first_name"
-    t.string   "last_name"
+  
